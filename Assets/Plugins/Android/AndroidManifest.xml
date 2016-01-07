@@ -39,7 +39,7 @@
     </activity>
    
    <activity
-       android:name="com.doublej.noyoumi.MainActivity"
+       android:name="com.doublej.noYMUpdate.MainActivity"
        android:label="@string/app_name"
        android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
             
