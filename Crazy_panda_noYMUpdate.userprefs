@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_script/gates/scence_manger.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/AndroidManifest.xml">
     <Files>
-      <File FileName="Assets/_script/gates/scence_manger.cs" Line="67" Column="22" />
+      <File FileName="Assets/_script/gates/scence_manger.cs" Line="58" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="42" Column="58" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
